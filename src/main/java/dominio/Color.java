@@ -2,8 +2,8 @@ package dominio;
 
 public class Color {
 	
-	public enum material{
-		DURAZNO, NIEVE, TURQUESA
+	public enum color{
+		DURAZNO, NIEVE, TURQUESA, ROJO
 	}
 
 }
